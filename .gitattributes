@@ -1,4 +1,5 @@
-/gradlew text eol=lf
+# All text files
+* text=auto eol=lf
+# Optional: keep Windows batch files CRLF
 *.bat text eol=crlf
 *.jar binary
-*.sh text eol=lf
